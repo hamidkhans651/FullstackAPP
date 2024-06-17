@@ -1,0 +1,2 @@
+op\fincal payment api\paymenr\.venv\Scripts\python.exe"  "C:\Users\muham\OneDrive\Desktop\MART API\Backend\.venv\Scripts\uvicorn.exe" app.main:app --reload'
+PS C:\Users\muham\OneDrive\Desktop\MART API\Backend> 
